@@ -73,7 +73,6 @@
 ## 主要檔案說明
 
 - [`result.py`](result.py)：主程式，包含模型載入、生成、效能與困惑度評估邏輯。
-- [`req.txt`](req.txt)：Python 依賴套件列表。
 - [`19.csv`]：程式執行後自動產生，紀錄 PPL 與 Throughput。
 
 ## 參考
