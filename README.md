@@ -1,4 +1,4 @@
-# 2025-NYCU-EdgeAi-Final
+# 2025-NYCU-EdgeAI-Final
 
 
 ## 專案簡介
